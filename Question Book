@@ -9,9 +9,9 @@ Suppose you have a book with a total of 1200 pages, and each chapter in the book
 You have a list of fruits: fruits = ["apple", "banana", "cherry", "orange", "apricot", "custard apple", "grapes"]. Write a Python program that iterates through each fruit in the list and displays both the fruit name and its individual characters.
 Write a Python program that asks the user whether it is day or night. Depending on the response, the program will prompt for an activity choice. If it is daytime, the program will offer options to play outside, read a book, or take a nap. If it is nighttime, the program will suggest sleeping and resting.
 Write a program that asks the user to enter a positive integer and then prints the countdown from that number to 1. For example, if the user enters 5, the program should print "5, 4, 3, 2, 1".
-
 Write a program that asks the user to enter a number, and then calculates and prints the sum of all the even numbers from 1 to that number (inclusive). For example, if the user enters 8, the program should calculate the sum of 2 + 4 + 6 + 8 and output the result.
 Write a Python program that takes a three-digit number as input from the user and calculates the sum of its individual digits. For example, if the user enters 354, the program should output the sum of 3, 5, and 4, which is 12.
+
 Write a code to create the given structure using a while loop in python.
 | | | | |
  | | | |
