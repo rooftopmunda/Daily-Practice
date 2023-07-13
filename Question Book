@@ -1,7 +1,6 @@
 Create a calculator in python using if else elif statement. Acknowledge the fact that division by 0 is not allowed.
 Swap the number without using third variable and Swap the number with a third variable.
 Write a program that takes a string as input and prints the string in reverse order.
-Write a Program to extract each digit from an integer in the reverse order. For example, If the given int is 7536, the output shall be “6 3 5 7“, with a space separating the digits.
 Write a program to check if the given number is a palindrome number.
 Write a program that will tell whether the given number is divisible by 3 & 6.
 Write a Python program that prompts the user to enter the lengths of the two shorter sides of a right triangle. The program should then calculate and display the length of the hypotenuse using the Pythagorean theorem.
