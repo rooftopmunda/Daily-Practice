@@ -12,7 +12,7 @@ Write a program that asks the user to enter a positive integer and then prints t
 Write a program that asks the user to enter a number, and then calculates and prints the sum of all the even numbers from 1 to that number (inclusive). For example, if the user enters 8, the program should calculate the sum of 2 + 4 + 6 + 8 and output the result.
 Write a Python program that takes a three-digit number as input from the user and calculates the sum of its individual digits. For example, if the user enters 354, the program should output the sum of 3, 5, and 4, which is 12.
 
-Write a code to create the given structure using a while loop in python.
+Write a code to create the given structure:
 | | | | |
  | | | |
   | | |
@@ -23,14 +23,13 @@ Write a code to create the given structure using only a for loop.
   ***
  ******
 ********
-
-Consider a list of numbers: list1 = [12,564,654,4,56,487,1,468,98,654,897,8974,684,987,684,87,654,6587,68,48]
-Write a Python program that counts the number of elements in the list that are divisible by 5. The program should iterate through each element in the list and increment a counter (divisible_count) for each element that is divisible by 5. Finally, the program should display the total count of such elements.
+Write Python code that calculates  Euclidean distance between two points in a three-dimensional space.
+Consider a list of numbers: list1 = [12,564,654,4,56,487,1,468,98,654,897,8974,684,987,684,87,654,6587,68,48] Write a Python program that counts the number of elements in the list that are divisible by 5. The program should iterate through each element in the list and increment a counter (divisible_count) for each element that is divisible by 5. Finally, the program should display the total count of such elements.
 Write a program which takes an input from the the user as an integer and prints if the number is even or odd.
 #Using a for loop, can you print the numbers from 1 to 10?
 Using a for loop in python, and range function write a program that only prints every third number from the user input. For example if the user inputs 5 so the output should be 5,8,11 and so on.
 Suppose you have two lists: adj = ["red", "big", "tasty"] and fruits = ["apple", "banana", "cherry"]. Write a Python program that generates combinations of adjectives from the adj list with fruits from the fruits list. The program should iterate through each adjective and each fruit, and print out the combination of an adjective and a fruit on separate lines.
-# Write a Python program that asks the user to enter a positive integer. The program should calculate and display the sum of all the digits in that number.For example, if the user enters 1234, the program should calculate the sum as 1 + 2 + 3 + 4 = 10. Write the code to implement this program using a while loop.
+Write a Python program that asks the user to enter a positive integer. The program should calculate and display the sum of all the digits in that number.For example, if the user enters 1234, the program should calculate the sum as 1 + 2 + 3 + 4 = 10. Write the code to implement this program using a while loop.
 Consider a positive integer numb = 987654321. Write a Python program that extracts and prints each digit of the given number on separate lines. The program should use a while loop to repeatedly extract the last digit of the number, print it, and then remove the last digit by integer division. The process should continue until all the digits of the number have been extracted and printed.
 Write a program that takes a sentence as input and prints the number of words in the sentence. Assume that words in the sentence are separated by spaces. Then using the same sentence the program prints the number of letter in the sentence excluding spaces. 
 Write a program that takes a sentence as input and prints the number of vowels in the sentence.Consider vowels to be the letters 'a', 'e', 'i', 'o', and 'u'.
