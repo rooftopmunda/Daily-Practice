@@ -18,11 +18,13 @@ Write a code to create the given structure:
   | | |
    | |
     |
+
 Write a code to create the given structure using only a for loop.
    *
   ***
  ******
 ********
+
 Write Python code that calculates  Euclidean distance between two points in a three-dimensional space.
 Consider a list of numbers: list1 = [12,564,654,4,56,487,1,468,98,654,897,8974,684,987,684,87,654,6587,68,48] Write a Python program that counts the number of elements in the list that are divisible by 5. The program should iterate through each element in the list and increment a counter (divisible_count) for each element that is divisible by 5. Finally, the program should display the total count of such elements.
 Write a program which takes an input from the the user as an integer and prints if the number is even or odd.
