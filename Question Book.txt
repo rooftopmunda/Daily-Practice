@@ -36,8 +36,3 @@ Consider a positive integer numb = 987654321. Write a Python program that extrac
 Write a program that takes a sentence as input and prints the number of words in the sentence. Assume that words in the sentence are separated by spaces. Then using the same sentence the program prints the number of letter in the sentence excluding spaces. 
 Write a program that takes a sentence as input and prints the number of vowels in the sentence.Consider vowels to be the letters 'a', 'e', 'i', 'o', and 'u'.
 Write a program that asks the user to guess a secret number. The program should keep prompting the user for guesses until they correctly guess the number. If the user guesses the number correctly, the program should print a congratulatory message.
-
-
-
-
-
